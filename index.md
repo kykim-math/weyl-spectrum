@@ -6,7 +6,7 @@ This page contains computational and expository resources on the Weyl spectrum a
 
 The following data files contain primitive Salem numbers appearing in the Weyl spectrum associated with W(E_10).
 
-### Complete list (first 1688 Primitive Salem numbers)
+### Complete list (first 1688 Primitive Salem numbers in W(E_10))
 
 - [Complete list of the first 1688 primitive Salem numbers](e10/salem-pisot/primitive-salem-first-1688.csv)
 
