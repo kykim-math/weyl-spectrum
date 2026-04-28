@@ -1,6 +1,6 @@
 
 
-This page contains computational and expository resources on the Weyl spectrum associated with the Coxeter group W(E_10).
+This page contains computational and expository resources on the Weyl spectrum associated with the Coxeter group.
 
 ## Salem numbers in W(E_10)
 
